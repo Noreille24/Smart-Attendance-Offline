@@ -1,0 +1,18 @@
+{
+  "name": "Smart Attendance",
+  "short_name": "Attendance",
+  "description": "Class attendance for teachers and students",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
